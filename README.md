@@ -77,3 +77,6 @@ curl -X POST http://localhost:8000/plan/{session_id}/respond \
 - **FastAPI + uvicorn** — REST API
 - **httpx** — live currency conversion
 - **Pydantic** — request/response validation
+
+# TravelMind
+Chill practice for Multi-Agentic AI System
